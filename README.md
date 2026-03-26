@@ -137,5 +137,4 @@ facebook-analysis/
 
 ---
 
-## ⭐ Ủng hộ
-Nếu bạn thấy project hữu ích, hãy ⭐ repo này!
+## Thank for everyone for listening
