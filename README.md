@@ -19,7 +19,8 @@ Dự án này phân tích **hành vi người dùng Facebook** dựa trên bộ 
 ## 📊 Trực quan dữ liệu
 
 ###  Phân bố độ tuổi
-![alt text](01_phan_bo_do_tuoi.png)
+<img width="2953" height="1754" alt="01_phan_bo_do_tuoi" src="https://github.com/user-attachments/assets/7d95cabd-ebad-437d-a5f4-b458f911dd0c" />
+
 
 - Người dùng tập trung chủ yếu từ **13–25 tuổi**
 - Giảm mạnh sau 35 tuổi
@@ -27,7 +28,8 @@ Dự án này phân tích **hành vi người dùng Facebook** dựa trên bộ 
 ---
 
 ### 🎂 Phân bố ngày sinh
-![alt text](02_phan_bo_ngay_sinh.png)
+<img width="2953" height="1754" alt="02_phan_bo_ngay_sinh" src="https://github.com/user-attachments/assets/a8338c73-d975-4704-98f7-d0321f557018" />
+
 
 - Đỉnh cao tại **ngày 1**
 - Có thể do người dùng nhập thông tin mặc định / ẩn thông tin
@@ -35,7 +37,8 @@ Dự án này phân tích **hành vi người dùng Facebook** dựa trên bộ 
 ---
 
 ### 📅 Phân bố tháng sinh
-![alt text](03_phan_bo_thang_sinh.png)
+<img width="2953" height="1754" alt="03_phan_bo_thang_sinh" src="https://github.com/user-attachments/assets/6909a7d4-a4cf-46b3-af07-87c0f6e0c7ea" />
+
 
 - Phân bố khá đồng đều  
 - Tăng đột biến vào **tháng 1**
@@ -43,7 +46,8 @@ Dự án này phân tích **hành vi người dùng Facebook** dựa trên bộ 
 ---
 
 ### 🚻 Phân bố giới tính
-![alt text](04_phan_bo_gioi_tinh.png)
+<img width="2953" height="1754" alt="04_phan_bo_gioi_tinh" src="https://github.com/user-attachments/assets/5a47210f-3bd4-44e5-a021-db00c27d1455" />
+
 
 - Nam chiếm số lượng lớn hơn  
 - Nữ có **mức độ tương tác cao hơn**
@@ -51,7 +55,8 @@ Dự án này phân tích **hành vi người dùng Facebook** dựa trên bộ 
 ---
 
 ### ❤️ Lượt thích theo nhóm tuổi
-![alt text](06_likes_theo_nhom_tuoi.png)
+<img width="2953" height="1752" alt="06_likes_theo_nhom_tuoi" src="https://github.com/user-attachments/assets/9b00ef21-a0a3-421a-ae95-ad452e888af8" />
+
 
 - Nhóm trẻ có mức tương tác cao nhất  
 - Có thể tồn tại dữ liệu bất thường ở nhóm tuổi cao
@@ -59,14 +64,16 @@ Dự án này phân tích **hành vi người dùng Facebook** dựa trên bộ 
 ---
 
 ### ⏱️ Thời gian sử dụng & số bạn bè
-![alt text](07_tenure_theo_nhom_ban_be.png)
+<img width="2954" height="1753" alt="07_tenure_theo_nhom_ban_be" src="https://github.com/user-attachments/assets/4a6934db-57a2-4deb-b77c-5b761430b72c" />
+
 
 - Số bạn bè càng nhiều → thời gian sử dụng càng cao
 
 ---
 
 ### 🔗 Ma trận tương quan
-![alt text](08_ma_tran_tuong_quan.png)
+<img width="3358" height="2651" alt="08_ma_tran_tuong_quan" src="https://github.com/user-attachments/assets/703187fa-5f39-443f-88d3-e303862a2e1a" />
+
 
 - Tương quan mạnh giữa **like mobile & tổng like**
 - Mobile là nền tảng chính
@@ -98,6 +105,7 @@ facebook-analysis/
 │── data/
 │── notebooks/
 │── src/
+|── images/
 │── README.md
 │── requirements.txt
 
