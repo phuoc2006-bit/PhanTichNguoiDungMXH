@@ -89,28 +89,6 @@ Dự án này phân tích **hành vi người dùng Facebook** dựa trên bộ 
 
 ---
 
-## ▶️ Cách chạy dự án
-
-```bash
-git clone https://github.com/your-username/facebook-analysis.git
-cd facebook-analysis
-pip install -r requirements.txt
-```
-
----
-
-## 📁 Cấu trúc project
-
-facebook-analysis/
-│── data/
-│── notebooks/
-│── src/
-|── images/
-│── README.md
-│── requirements.txt
-
----
-
 ## 🚀 Kết luận chính
 - Người dùng trẻ chiếm đa số  
 - Nữ có xu hướng tương tác nhiều hơn  
