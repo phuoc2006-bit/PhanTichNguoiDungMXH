@@ -119,9 +119,9 @@ facebook-analysis/
 ---
 
 ## 👥 Nhóm thực hiện
-- Lê Đức Trung  
-- Vũ Tú Nam  
-- Văn Bảo Phước  
+- Lê Đức Trung / 698558
+- Vũ Tú Nam / 698492
+- Văn Bảo Phước / 698221 
 
 ---
 
